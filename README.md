@@ -24,13 +24,17 @@ E. La realizacion de todo lo anterior pero en un solo paso y con los parametros 
 6.__Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?__ 
 En el que se utilizo ProbCons, GBlocks, MrBayes y TreeDyn comparado con el sin GBlocks, hubieron cambios singnificativos en las distancias, pero sin embargo se mantuvieron la mayoria de las posiciones en el arbol, en su contra parte, en el que se utilizo ClustalW,Remove positions with gap, TNT, y TreeDyn comparado con el sin Remove positions with gaps, cambio casi todo posiciones de las especies distnacias, etc.
 ![BIOINF-4](FILO1.PNG)
-Imagen I ProbCons, GBlocks, MrBayes, y TreeDyn.
+
+       Imagen I ProbCons, GBlocks, MrBayes, y TreeDyn.
 
 ![BIOINF-4](FILOSA1.PNG)
-Imagen II ProbCons, MrBayes, y TreeDyn.
+
+          Imagen II ProbCons, MrBayes, y TreeDyn.
 
 ![BIOINF-4](FILO2.PNG)
-Imagen III ClustalW,Remove positions with gap, TNT, y TreeDyn.
 
-![BIOINF-4](FILOSA2.1.PNG)
-Imagen IV ClustalW, TNT, y TreeDyn.
+          Imagen III ClustalW,Remove positions with gap, TNT, y TreeDyn.
+
+![BIOINF-4](FIOLOSA2.1.PNG)
+
+          Imagen IV ClustalW, TNT, y TreeDyn.
